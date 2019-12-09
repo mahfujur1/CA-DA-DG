@@ -4,10 +4,10 @@ The Link of the paper [Paper in Pattern Recognition](https://www.sciencedirect.c
 
 The Link of the paper [Pre-print in arxiv](https://arxiv.org/abs/1911.12983).
 
-## Architecture
+## Difference between Domain Adaptation and Domain generalization
 ![alt text](images/con.jpg)
 
-## Generated images
+## Network Architecture
 ![alt text](images/arc.jpg)
 
 
